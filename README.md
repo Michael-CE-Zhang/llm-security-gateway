@@ -8,3 +8,4 @@ LLM security gateway offers 4 layers of defense:
 - Model Armor：The official Model Armor SDK can identify Prompt Injection, jailbreaking, personal data leakage (DLP/PII), and malicious URLs.
 
 ## Architecture
+<img width="1631" height="640" alt="Image" src="https://github.com/user-attachments/assets/701e831d-f3a4-49cb-bfde-888f2e456669" />
